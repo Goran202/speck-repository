@@ -1,0 +1,13 @@
+body {
+    height: 200px;
+    width: auto;
+    background-color: #333333
+}
+
+form {
+    border: 2px solid red;
+    width: 40%;
+    padding: 20px;
+    
+}
+
